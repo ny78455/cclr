@@ -1,0 +1,5 @@
+{
+  "name": "CC-LTMR Dashboard",
+  "description": "A professional dashboard for the Character-Conditioned Long-Term Memory Reasoner system. Features data ingestion visualization, episodic memory pipeline status, and real-time character consistency verification using Gemini 1.5 Pro.",
+  "requestFramePermissions": []
+}
